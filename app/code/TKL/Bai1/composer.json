@@ -1,5 +1,5 @@
 {
-    "name": "magento/module-admin-notification",
+    "name": "magento/module-tkl-bai1",
     "description": "N/A",
     "config": {
         "sort-packages": true
@@ -23,7 +23,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "Magento\\AdminNotification\\": ""
+            "TKL\\Bai1\\": ""
         }
     },
     "version": "100.3.1"
